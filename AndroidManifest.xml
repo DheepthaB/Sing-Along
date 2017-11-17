@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1" android:versionName="1.0" package="com.example.project"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:theme="@style/AppTheme" android:label="Sing Along" android:icon="@drawable/rhymesicon" android:debuggable="true" android:allowBackup="true">
+        <activity android:label="@string/app_name" android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="naturescreen" android:name=".naturescreen" />
+        <activity android:label="animalscreen" android:name=".animalscreen" />
+        <activity android:label="alphascreen" android:name=".bodypartsscreen" />
+        <activity android:label="clapscreen" android:name=".transportscreen" />
+        <activity android:label="bedtimescreen" android:name=".bedtimescreen" />
+        <activity android:label="countscreen" android:name=".countscreen" />
+        <activity android:label="@string/app_name" android:name=".nuttree" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".roses" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".ring" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".mary" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".mulberry" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".garden" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".ducks" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".mcd" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".muffet" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".hickery" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".pussy" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".sheep" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".head" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".brush" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".cheeks" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".polly" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".bobbin" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".thumb" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".london" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".boat" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".bus" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".bye" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".bed" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".rock" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".star" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".hush" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".shoe" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".alpha" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".abc" android:configChanges="orientation" />
+        <activity android:label="@string/app_name" android:name=".monkey" android:configChanges="orientation" />
+    </application>
+</manifest>

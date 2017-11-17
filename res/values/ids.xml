@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="home" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="imageButton3">false</item>
+    <item type="id" name="imageButton4">false</item>
+    <item type="id" name="imageButton2">false</item>
+    <item type="id" name="imageButton1">false</item>
+    <item type="id" name="seekBar1">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="textView3">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="textView4">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="alpha">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="bed">false</item>
+    <item type="id" name="boat">false</item>
+    <item type="id" name="bobbin">false</item>
+    <item type="id" name="brush">false</item>
+    <item type="id" name="bus">false</item>
+    <item type="id" name="bye">false</item>
+    <item type="id" name="cheeks">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="img">false</item>
+    <item type="id" name="txt">false</item>
+    <item type="id" name="ducks">false</item>
+    <item type="id" name="garden">false</item>
+    <item type="id" name="head">false</item>
+    <item type="id" name="hickery">false</item>
+    <item type="id" name="hush">false</item>
+    <item type="id" name="london">false</item>
+    <item type="id" name="rhymes">false</item>
+    <item type="id" name="mary">false</item>
+    <item type="id" name="mcd">false</item>
+    <item type="id" name="muffet">false</item>
+    <item type="id" name="mulberry">false</item>
+    <item type="id" name="nuttree">false</item>
+    <item type="id" name="polly">false</item>
+    <item type="id" name="pussy">false</item>
+    <item type="id" name="ring">false</item>
+    <item type="id" name="rock">false</item>
+    <item type="id" name="roses">false</item>
+    <item type="id" name="sheep">false</item>
+    <item type="id" name="shoe">false</item>
+    <item type="id" name="star">false</item>
+    <item type="id" name="thumb">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>
